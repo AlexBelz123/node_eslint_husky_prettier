@@ -1,4 +1,4 @@
-const n = 7;
+const n: number = 7;
 
 const test = (n: number): number => {
   return n * n;
